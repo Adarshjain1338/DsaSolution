@@ -32,7 +32,6 @@ public class Main {
                 for(String ans2: hways){
                     result.add("h"+ i +ans2);
                 }
-
         }
          for(int j = 1; j<= dr-sr ;j++){
              ArrayList<String> vways = getMazePaths(sr+j, sc, dr,dc);
