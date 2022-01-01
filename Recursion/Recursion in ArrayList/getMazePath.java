@@ -49,3 +49,6 @@ public class Main {
     }
 
 }
+// if we have to find the path length . 
+// greedy way 
+//(n-1)+(m-1) = length of path .
