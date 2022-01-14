@@ -38,7 +38,7 @@ public class Main {
         right--;
       }
       else{
-        System.out.println(arr[left] + ","+ arr[right]);
+        System.out.println(arr[left] + ", "+ arr[right]);
         left++;
         right--;
       }
